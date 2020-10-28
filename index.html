@@ -18,27 +18,80 @@
 <link rel="shortcut icon" type="image/x-icon" href="https://mobilecurator.github.io/home/image/favicon.ico">
 <title>브라우저 타이틀</title>
 <style type="text/css">
-.fontTitle {
-	font-size: 6vw;
-	text-align: center;
-}
-
-.font3 {
-	font-size: 3vw;
-}
-
 .height4 {
 	height: 4vw;
 }
 
-.floatRight {
-	float: right;
+.outer-grid {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 0;
+}
+
+.inner-grid {
+	flex: 25%;
+	max-width: 22vw;
+	padding: 0 1vw;
+}
+
+.inner-grid img {
+	margin-top: 1vw;
+	width: 100%;
+	padding: 1vw;
+}
+
+@media screen and (max-width: 800px) {
+	.inner-grid {
+		flex: 50%;
+		max-width: 50%;
+	}
 }
 </style>
 </head>
 <body>
-		<h1 class="fontTitle" style="margin-bottom: 0">대 제목</h1>
-		<a class="floatRight" href='https://play.google.com/store/apps/developer?id=Mobile+Curator&hl=ko&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'> <img class="height4" alt='image/google-play-badge.png' src='https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png' />
-		</a>
+		<h1 style="margin-bottom: 0; font-size: 6vw; text-align: center;">대 제목</h1>
+		<p style="margin-top: 0; text-align: right;">
+				<a href='https://play.google.com/store/apps/developer?id=Mobile+Curator&hl=ko&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'> <img
+						class="height4" alt='google-play-badge' src='https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png'
+				/>
+				</a>
+		</p>
+		<div style="display: block; height: 12vw;">
+				<img style="height: 12vw;" src='image/x.png' align="left" />
+				<h2 style="margin-bottom: 1vw; padding-left: 15vw; font-size: 3vw;">소제목</h2>
+				<div style="padding-left: 15vw; font-size: 2vw;">설명 설명설명 설명 설명설명설명 설명설명 설명 설명설명설명 설명설명 설명 설명설명설명 설명설명 설명 설명설명설명 설명설명 설명 설명설명설명 설명설명 설설명</div>
+		</div>
+		<p style="margin-top: 0; margin-left: 1vw; text-align: left;">
+				<a href='https://play.google.com/store/apps/details?id=com.mcu.game.trip.quiz.free'> <img class="height4" alt='google-play-badge'
+						src='https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png'
+				/>
+				</a>
+		</p>
+		<div class="outer-grid">
+				<div class="inner-grid">
+						<img src='image/x.png' /> <img src='image/x.png' />
+				</div>
+				<div class="inner-grid">
+						<img src='image/x.png' /> <img src='image/x.png' />
+				</div>
+				<div class="inner-grid">
+						<img src='image/x.png' /> <img src='image/x.png' />
+				</div>
+				<div class="inner-grid">
+						<img src='image/x.png' /> <img src='image/x.png' />
+				</div>
+		</div>
+		<p style="text-align: left;"><div style="font-size: 1.6vw;">설명 설명설명 설명 설명설명설명 설명설명 설명 설명설명설명 설명설명 설명 설명설명설명 설명설명 설명 설명설명설명 설명설명 설명 설명설명설명 설명설명 설설명</div></p>
+		<p style="margin-top: 0; margin-left: 1vw; text-align: right;">
+				<a href='https://play.google.com/store/apps/details?id=com.mcu.game.trip.quiz.free'> <img class="height4" alt='google-play-badge'
+						src='https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png'
+				/>
+				</a>
+		</p>
+		<div style="margin: auto">
+				<iframe style="margin: 0 auto; display: block;" width="560" height="315" src="https://www.youtube.com/embed/8axtKSgCYoM" frameborder="0"
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+				></iframe>
+		</div>
 </body>
 </html>
