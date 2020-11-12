@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="format-detection" content="telephone=no, address=no, email=no" />
+  <meta name="description" content="5GX 부스트파크 | 강남역/가로수길" />
+  <meta name="keywords" content="SKT5GX, Jump, JumpVR, JumpAR, Boostpark" />
+  <meta property="og:title" content="5GX 부스트파크 | 강남역/가로수길" />
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="SKT 5GX 대표 웹사이트" />
+  <meta property="og:description" content="5GX 부스트파크 | 강남역/가로수길" />
+  <meta property="og:url" content="https://m.sktelecom5gx.com/html/corearea/corearea_gangnam.html" />
+  <meta property="og:image" content="https://m.sktelecom5gx.com/img/common/logo_boostpark.png" />
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="5GX 부스트파크 | 강남역/가로수길">
+  <meta name="twitter:description" content="5GX 부스트파크 | 강남역/가로수길">
+  <meta name="twitter:url" content="https://m.sktelecom5gx.com/html/corearea/corearea_gangnam.html">
+  <meta name="twitter:image" content="https://m.sktelecom5gx.com/img/common/logo_boostpark.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://m.sktelecom5gx.com/img/common/favicon.ico">
+  <link rel="apple-touch-icon" href="https://m.sktelecom5gx.com/img/common/favicon.png" />
+
+  <title>5GX 부스트파크 | 강남역/가로수길</title>
+  <!-- ###########################필요한 CSS 경로를 넣어주세요 ############################# -->
+
+  <!-- ###########################필요한 CSS 경로를 넣어주세요 ############################# -->
+  <!--Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MHKHS9V');
+  </script>
+  <!-- End Google Tag Manager -->
+</head>
+
+<body>
+
+
+
+  <div class="wrap boostpark">
+    <!-- #gnb -->
+    <div id="gnb" data-name="부스트파크"></div>
+    <div id="actionbar" data-name="부스트파크"></div>
+    <!-- #contents -->
+    <div id="contents" class="container-wrap">
+
+
+
+      <div class="bp-content-block">
+
+        <!-- 로컬 제휴/이벤트 -->
+        <div class="card-wrap1 bp-block2 local">
+          <!-- .accordion-group -->
+          <figure class="acc-group">
+
+          </figure>
+        </div>
+
+        <!-- SNS -->
+        <div class="sns-block bp-block5">
+          <header class="bp-block-title">
+            <h3 class="bp-title-round-line">SNS 공유하기</h3>
+          </header>
+          <div class="sns-link clearfix">
+            <a id="kakao-link-btn" href="javascript:sendLink()">
+              <p class="sns-text">카카오톡</p>
+            </a>
+			<a href="intent://instagram.com/#Intent;package=com.instagram.android;scheme=https;end" target="blank"> 안드로이드 인스타</a><br>
+					
+			<a href="instagram://media" target="blank">아이폰 인스타</a><br>
+					
+			<a href="javascript:action_app_instagram('intent://instagram.com/#Intent;package=com.instagram.android;scheme=https;end', 'instagram://media', 'https://itunes.apple.com/kr/app/instagram/id389801252?mt=8')" class="button__black --big">아이폰 인스타 itunes</a>
+          </div>
+        </div>
+		
+
+
+
+
+      </div> <!-- //bp-content-block -->
+    </div> <!-- //container-wrap -->
+  </div> <!-- //wrap -->
+
+  <!-- ########################### script ############################# -->
+
+  <script src="js/lib/kakao.min.js"></script>
+  <script src="js/boostpark.js"></script>
+
+<script>
+function mo_chk(){
+
+	var os;
+
+	var mobile = (/iphone|ipad|ipod|android/i.test(navigator.userAgent.toLowerCase()));	 
+
+	if (mobile) {
+		var userAgent = navigator.userAgent.toLowerCase();
+		if (userAgent.search("android") > -1){
+			return os = "android";
+		}else if ((userAgent.search("iphone") > -1) || (userAgent.search("ipod") > -1) || (userAgent.search("ipad") > -1)){
+			return os = "ios";
+		}else{
+			return os = "otehr";
+		}
+
+	} else {
+		return os = "pc";
+	}
+}
+
+
+function action_app_instagram(android_url , ios_url , ios_appstore_url){
+	var result_mo_chk = mo_chk();
+
+	if(result_mo_chk!="pc"){
+		if(result_mo_chk == "ios"){
+
+			setTimeout( function() {
+				window.open(ios_appstore_url);
+			}, 1500);
+
+			location.href = ios_url;
+		}else{
+			location.href = android_url;
+		}
+	}
+}
+</script>
+
+  <!-- SNS 공유용 주소 연결 용 -->
+  <script type="text/javascript" async>
+    var url_default_ks = "https://story.kakao.com/share?url=";
+    var url_default_fb = "https://www.facebook.com/sharer/sharer.php?u=";
+    var url_default_tw_txt = "https://twitter.com/intent/tweet?text=";
+    var url_default_tw_url = "&url=";
+    var url_default_band = "http://band.us/plugin/share?body=";
+    var url_route_band = "&route=";
+    var url_default_naver = "http://share.naver.com/web/shareView.nhn?url=";
+    var title_default_naver = "&title=";
+    var url_this_page = location.href;
+    var title_this_page = document.title;
+    var url_combine_ks = url_default_ks + url_this_page;
+    var url_combine_fb = url_default_fb + url_this_page;
+    var url_combine_tw = url_default_tw_txt + document.title + url_default_tw_url + url_this_page;
+    var url_combine_band = url_default_band + encodeURI(url_this_page) + '%0A' + encodeURI(title_this_page) + '%0A' +
+      '&route=tistory.com';
+    var url_combine_naver = url_default_naver + encodeURI(url_this_page) + title_default_naver + encodeURI(
+      title_this_page);
+  </script>
+
+</body>
+
+</html>
