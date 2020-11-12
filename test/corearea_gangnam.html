@@ -28,9 +28,6 @@
   <!-- ###########################필요한 CSS 경로를 넣어주세요 ############################# -->
 
   <!-- ###########################필요한 CSS 경로를 넣어주세요 ############################# -->
-  <!-- 트래커 스크립트 -->
-  <script src="https://xtr.tos.sktelecom.com/js/xtractor_script.js"></script>
-
   <!--Google Tag Manager -->
   <script>
     (function (w, d, s, l, i) {
@@ -43,9 +40,6 @@
     })(window, document, 'script', 'dataLayer', 'GTM-MHKHS9V');
   </script>
   <!-- End Google Tag Manager -->
-
-  <!-- URL DIRECTION -->
-  <script src="js/url_direction.js"></script>
 </head>
 
 <body>
@@ -78,11 +72,16 @@
           </header>
           <div class="sns-link clearfix">
             <a id="kakao-link-btn" href="javascript:sendLink()">
-              <img src="img/boostpark/ico_kakao.png" class="ico_kakao" alt="">
               <p class="sns-text">카카오톡</p>
             </a>
+			
+					<a href="intent://instagram.com/#Intent;package=com.instagram.android;scheme=https;end" target="blank">인스타</a>
+					
+					<a href="javascript:actionInstagram('intent://instagram.com/#Intent;package=com.instagram.android;scheme=https;end', 'instagram://media', 'https://itunes.apple.com/kr/app/instagram/id389801252?mt=8')" class="button__black --big">인스타 itunes</a>
           </div>
         </div>
+		
+
 
 
 
@@ -92,13 +91,7 @@
 
   <!-- ########################### script ############################# -->
 
-  <script src="js/lib/jquery-3.4.1.min.js"></script>
-  <script src="js/lib/swiper.min.js"></script>
-  <script src="js/map.js"></script>
-  <script src="js/gnb.js"></script>
   <script src="js/lib/kakao.min.js"></script>
-  <script src="js/lib/clipboard.min.js"></script>
-  <script src="js/boostpark_include.js"></script>
   <script src="js/boostpark.js"></script>
 
 
@@ -124,8 +117,6 @@
       title_this_page);
   </script>
 
-  <!-- TID SSO Cookie : 로그인 관련 공통 스크립트 -->
-  <script type="text/javascript" src="/front/js/ssoCookie.js"></script>
 </body>
 
 </html>
