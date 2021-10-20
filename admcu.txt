@@ -1,2 +1,2 @@
 com.mcu.game.cho.find.free#@#초성 찾기 퀴즈#@#1#@#2021-10-08#@#전혀 다른 방식의 초성 퀴즈를 만나보세요. 최소 10배는 재밌습니다.#@#https://play-lh.googleusercontent.com/ZYKIdrDlLwiHpS8kz6XbkeTw08CXiGoiCqqo-BephXOXGmh4Z6XrKfZoY0d3ROSwQjM=s360-rw#@#
-com.mcu.game.word.tower.free#@#워드 그라운드 타워#@#0#@#2021-09-26#@#워드 타워의 서로 연관된 단어를 찾아보세요. 지금까지 이런 게임은 없었죠?#@#https://play-lh.googleusercontent.com/Qy7XEpKDvLgcFuv35LcIVDnGp25EkON85uMSkbl9SJhBYvpcwJ-jfxbjvHUsZGFiGPi2=s360-rw#@#
+\ncom.mcu.game.word.tower.free#@#워드 그라운드 타워#@#0#@#2021-09-26#@#워드 타워의 서로 연관된 단어를 찾아보세요. 지금까지 이런 게임은 없었죠?#@#https://play-lh.googleusercontent.com/Qy7XEpKDvLgcFuv35LcIVDnGp25EkON85uMSkbl9SJhBYvpcwJ-jfxbjvHUsZGFiGPi2=s360-rw#@#
