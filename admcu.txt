@@ -33,3 +33,4 @@ com.mcu.contactold.free#@#오래된 연락처#@#0#@#2017-01-01#@#스마트폰의
 ##@@##com.mcu.game.word.join.free#@#워드 그라운드#@#0#@#2021-09-26#@#단어 찾기 게임 재미있죠? 이번에는 서로서로 연결된 단어를 찾아볼까요?#@#https://play-lh.googleusercontent.com/J1HnMQzCL0v4kdQb1Hma6FvUTuNgl03A4_fLD3_nhnHzhBcuYPWvwFE6Fmg9ok5XaS2p=s360-rw#@#
 ##@@##com.mcu.game.word.block.free#@#대국민 단어블록#@#0#@#2021-09-18#@#단어 찾기 퍼즐 좋아하세요? 신비한 블록이 환상적으로 움직이는군요.#@#https://play-lh.googleusercontent.com/-aFirzNauQrkyzuGAscS9EhbVIr4wYqPh6gUI2QwAS3itNVmW9AJ1PbZA6FKxaNLK54=s360-rw#@#
 ##@@##com.mcu.game.word.circle.free#@#워드 도넛#@#1#@#2021-11-23#@#도넛에 있는 단어를 연결하여, 가로세로의 단어를 찾아보세요.#@#https://play-lh.googleusercontent.com/r03l7bgjx_3AlLGO-yuujARYg18B2m0spewpfRrj8Ux-Ys2ydR6JNu4UP5u8k8ZDVjDe=s360-rw#@#
+##@@##com.mcu.game.word.hori.free#@#가로세로 정렬#@#1#@#2021-11-30#@#어지러운 단어들을 정렬해 주세요. 신비한 단어 찾기 게임이에요.#@#https://play-lh.googleusercontent.com/2IqQA_dKUv5ecCufRFG0yj61BRODhSCVMP_xgdLWdaWQMTw4tHP0ZBkIcG96kJ2Agw=s360-rw#@#
