@@ -44,3 +44,4 @@ com.mcu.contactold.free#@#오래된 연락처#@#0#@#2017-01-01#@#스마트폰의
 ##@@##com.mcu.game.word.find.happy.free#@#행복한 단어찾기#@#0#@#2022-03-03#@#단어찾기 게임 좋아하시죠? 테마별로 다양한 단어를 찾아보세요. 너무 행복해집니다.#@#https://play-lh.googleusercontent.com/KYr4ZRSUTKpR0uVGF0ESBFVSE49f-R5nLSyJ0JiX9rNV3b4dfOkm9tLvRF8LODTZKtk=s360-rw#@#
 ##@@##com.mcu.game.word.find.bean.free#@#단어찾기 콩깍지#@#0#@#2022-03-12#@#귀여운 콩깍지 안에 단어들이 숨어 있네요. 이제 단어를 찾아볼까요?#@#https://play-lh.googleusercontent.com/uM6oDFdLnjgAVwMzISbTJQzsfyHZIFCJWINJqf03uDyQS-d0HV-F92gY18Il_hS2pQ=s360-rw#@#
 ##@@##com.mcu.game.word.words.free#@#한글 단어들#@#1#@#2022-03-19#@#한글은 위대합니다. 따라올 수 없는 즐거움이 있습니다. 이제 한글 워드 찾기 게임을 즐겨보세요.#@#https://play-lh.googleusercontent.com/HcicPIoLT3CNmlxjexv8KRf39HJDVhB5SjlFwtVb-XVFW8Th6I0tPDfQlw_ohzphmKQF=s360-rw#@#
+##@@##com.mcu.game.kor.slot.free#@#한글 단어 퍼즐#@#1#@#2022-03-25#@#정말 재밌고, 중독성 있어요. 딱 한 번만 해 보세요.#@#https://play-lh.googleusercontent.com/3f9eYhXhhV8nDykW9NgANPy6gCZIDUvvh7FH3eb0Y8WVaf7SErGUMGHXRYmj-a6iBtYo=s360-rw#@#
