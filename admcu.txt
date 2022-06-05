@@ -52,3 +52,4 @@ com.mcu.contactold.free#@#오래된 연락처#@#0#@#2017-01-01#@#스마트폰의
 ##@@##com.mcu.game.kor.cross.magnet.free#@#가로세로 블록퍼즐#@#0#@#2022-05-11#@#가로세로 단어를 블록으로 직접 만들 수 있는 색다른 게임을 만나보세요.#@#https://play-lh.googleusercontent.com/KSQ509NBkDWlF508g3rkdPHTKV0eQ1q_CJIbjQQdr9AcJDqPKlOLiZTbV4pkSvRmejc=s360-rw#@#
 ##@@##com.mcu.game.kor.cross.sympathy.free#@#가로세로 초성퀴즈#@#1#@#2022-05-14#@#가로세로 낱말 풀이를 초성퀴즈와 동시에 할 수 있어서 더욱더 재밌습니다.#@#https://play-lh.googleusercontent.com/pu5SoMvecjClehIam64Ocn3mYy0DG0y270XhguHc328YB3sLb-zgdwTTQiKp44tDdIw=s360-rw#@#
 ##@@##com.mcu.game.kor.cross.happy.free#@#행복한 가로세로#@#1#@#2022-05-25#@#십자말풀이 집중이 되면서, 편안하게 즐길 수 있어요.#@#https://play-lh.googleusercontent.com/ObjbRnectbtktJLOODJAmkyZ1nfX22Dyg0ZhOdziuLpEtrn_uWa1HGG08o01z-gDnMC0=s360-rw#@#
+##@@##com.mcu.game.kor.word.plus.free#@#한글 사칙연산#@#1#@#2022-05-30#@#한글 단어로 사칙연산을 한다고요? 더하고, 빼고, 곱하고, 나눠서 정답을 찾아보세요.#@#https://play-lh.googleusercontent.com/Vfn67kyQ6GXYnnzDgpYhHzXqtCuT4cACl4dwAcm2zb5GSkaUp5lavxegoo68hBfXrdo=s360-rw#@#
