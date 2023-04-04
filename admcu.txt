@@ -56,3 +56,4 @@ com.mcu.contactold.free#@#오래된 연락처#@#0#@#2017-01-01#@#스마트폰의
 ##@@##com.mcu.game.kor.liar.free#@#라이어 찾기 - 인공지능 게임#@#0#@#2022-06-12#@#친구들이 없어도 괜찮아요. 라이어 게임을 인공지능과 함께 즐길 수 있어요.#@#https://play-lh.googleusercontent.com/DAiZAJyy1b58BLav-WVNn8SA1q8eR7X8l7ERFu3Tei1alti1e5mqkYclo2KPCFGJjJHc=s360-rw#@#
 ##@@##com.mcu.game.quiz.again.free#@#대국민 퀴즈 - 최고 상금에 도전#@#1#@#2022-11-07#@#당신은 제법 퀴즈를 잘 하실 것 같아요. 대한민국 국민 모두가 참여하는 퀴즈. 나의 랭킹은?#@#https://play-lh.googleusercontent.com/MfBUa_-mJgRXBnWr6J1FOt1Yl7JcCvO1h6qmXtCe9mTHxZ3tdKXakp77FoVDgBJf20M=s360-rw#@#
 ##@@##com.mcu.game.quiz.choice.free#@#위대한 선택#@#1#@#2023-03-23#@#당신의 선택을 존중합니다.#@#https://play-lh.googleusercontent.com/r2Qrd9GsWcIF3clIEZD3BRTjmwYJ9mD3QvoZUYLR36byTOICH6BMoELLCfivJ_efhqA4=s360-rw#@#
+##@@##com.mcu.game.quiz.roads.free#@#Crossroads - 선택의 기로#@#1#@#2023-03-28#@#엄마가 좋아? 아빠가 좋아? 짜장면 좋아하세요? 짬뽕 좋아하세요?#@#https://play-lh.googleusercontent.com/VYWMA2on43M385GoDJqlNYNFkFsAO85H_gCzFDbhIaC-IdkM83xj2dPYwrP3cEFMSA=s360-rw#@#
